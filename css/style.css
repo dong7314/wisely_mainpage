@@ -78,6 +78,7 @@ a.common-btn {
 #logo { float: left; }
 
 #header .h-inner {
+  position: absolute;
   width: var(--content-width);
   margin: 0 auto;
   padding: 45px 25px 45px;
